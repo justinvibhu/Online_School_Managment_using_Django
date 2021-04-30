@@ -1,1 +1,1 @@
-# Online_School_Managment_using_Django
+# Online_School_Management_using_Django
